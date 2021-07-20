@@ -5,7 +5,7 @@
 
 
 
-> Status do Projeto: Em produção :heavy_check_mark:
+> Status do Projeto: Finalizado :heavy_check_mark:
 
 ## Descrição do Projeto:
 <p align="justify"> 
